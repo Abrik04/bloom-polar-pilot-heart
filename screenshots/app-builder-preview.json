@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Захид Кебаб — кафе-ресторан в Ташкенте",
+      "hasCanvas": false,
+      "bodyTextLen": 4429,
+      "bodyTextHash": "215ea5cc8f674d5fcc6588ae555fbd2f898d6995bbe435408794e215bfd9dda8",
+      "bodyTextPrefix": "К началу З Захид Зал Меню Отзывы Адрес RU EN Стол ЧИЛАНЗАР · УЛ.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Захид Кебаб — кафе-ресторан в Ташкенте",
+      "hasCanvas": false,
+      "bodyTextLen": 4417,
+      "bodyTextHash": "530a4b20594c206dc4760c439e8318c64e0b498de046661c4f30f6f97fc620a7",
+      "bodyTextPrefix": "К началу З Захид RU EN ЧИЛАНЗАР · УЛ. АФРОСИАБ, 2 кафе-ресторан ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
